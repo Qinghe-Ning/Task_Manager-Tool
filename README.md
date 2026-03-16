@@ -1,4 +1,4 @@
-# Task Manager v3.0
+# Task Manager
 
 一个基于Python的命令行任务管理应用，具备全面的任务操作功能和JSON持久化存储。
 
